@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dave DeVries</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=50&color=F7531F&center=true&width=550&height=80&lines=Hi+there!+I'm+Dave+DeVries)](https://git.io/typing-svg)
 <h3 align="center">Full Stack Software Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/davrizio" target="blank"><img src="https://img.shields.io/twitter/follow/davrizio?logo=twitter&style=for-the-badge" alt="davrizio" /></a> </p>
