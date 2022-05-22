@@ -1,6 +1,6 @@
-<h1 align="left">Hi! I'm Dave DeVries</h1>
+<h1 align="left">Hey! I'm Dave DeVries</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=9000&color=F7531F&center=true&vCenter=true&width=550&height=80&lines=Full+Stack+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=9000&color=F7531F&center=true&vCenter=true&width=550&height=80&lines=Full+-+Stack+Software+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https://twitter.com/davrizio" target="blank"><img src="https://img.shields.io/twitter/follow/davrizio?logo=twitter&style=for-the-badge" alt="davrizio" /></a> </p>
 
@@ -21,4 +21,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davrizio&show_icons=true&locale=en&layout=compact" alt="davrizio" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=davrizio&" alt="davrizio" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=davrizio&" alt="davrizio" /></p>
