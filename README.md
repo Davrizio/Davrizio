@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [CalTrack](https://github.com/Davrizio/caltrack)
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **davriziod@gmail.com**
 
