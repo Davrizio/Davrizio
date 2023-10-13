@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/davrizio" target="blank"><img src="https://img.shields.io/twitter/follow/davrizio?logo=twitter&style=for-the-badge" alt="davrizio" /></a> </p>
 
-- 🔭 I’m currently working on [CalTrack](https://github.com/Davrizio/caltrack)
+- 🔭 I’m currently working on [Flow](https://github.com/Davrizio/Flow)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Vue**
 
 - 📫 How to reach me **davriziod@gmail.com**
 
